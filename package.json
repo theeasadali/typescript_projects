@@ -1,0 +1,16 @@
+{
+  "name": "typescript_projects",
+  "version": "1.0.0",
+  "description": "Contains all the typescript projects developed in the GIAIC program.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asad Ali (theeasadali)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
